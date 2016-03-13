@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="phonebook3.xsl" type="text/xsl"?>
+<!DOCTYPE PhoneBook>
+<PhoneBook>
+    <Listing>
+        <First>Alex</First>
+        <Last>Chilton</Last>
+        <Phone Type="cell">1-800-123-4567</Phone>
+        <Phone Type="home">1-800-123-4568</Phone>
+        <Phone Type="work">1-800-123-4569</Phone>
+    </Listing>
+    <Listing>
+         <Last>Chilton</Last>
+         <First>Laura</First>
+         <Phone Type="home">1-800-234-5678</Phone>
+    </Listing>
+</PhoneBook>
